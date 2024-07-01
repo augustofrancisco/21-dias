@@ -8,7 +8,6 @@ for(let tabuada = 1; tabuada <= 10; tabuada++){
 }
 
 
-
 let num = parseInt(prompt('Digite um número para que a contagem inicie'))
 
 for(let contador = 0; contador <= num; contador++){
