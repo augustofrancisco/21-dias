@@ -8,8 +8,6 @@ let array = []
 array[0] = primeiroElemento;
 array[1] = numeroInserido;
 
-
-
 for (contador = 2; contador < 10; contador++) {
 
     array[contador] = array[contador - 1] + array[contador - 2]

@@ -12,7 +12,6 @@ for (contador = 0; contador < numeroElementosArray; contador++){
 
 console.log(array)
 
-
 let arrayInversa = []
 
 i = 0
